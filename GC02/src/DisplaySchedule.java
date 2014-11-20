@@ -7,6 +7,7 @@ import javax.swing.table.TableModel;
 
 
 public class DisplaySchedule {
+	/*
 	public static void main(String[] args) {
 		JFrame frame = new JFrame();
 	    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -22,5 +23,5 @@ public class DisplaySchedule {
 	    frame.setVisible(true);
 	}
 	
-	 
+	 */
 }
